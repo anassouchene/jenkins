@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\",
+  "WorkspaceRootPath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque.tests\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque.tests\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|solutionrelative:gestionbibliotheque.tests\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|solutionrelative:gestionbibliotheque.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque.tests\\gestionbibliotheque.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque.tests\\gestionbibliotheque.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0B7F5990-16EC-4833-8590-8B7DE97A30AB}|GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj|solutionrelative:gestionbibliotheque.tests\\gestionbibliotheque.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\gestionbibliotheque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\gestionbibliotheque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\gestionbibliotheque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\exceptions\\duplicateisbnexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\exceptions\\duplicateisbnexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\exceptions\\duplicateisbnexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\dtos\\bookfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\dtos\\bookadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\dtos\\bookadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\gestionbiblio\\gestionbibliotheque\\gestionbibliotheque\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|c:\\users\\anass\\desktop\\jenkins\\gestionbibliotheque\\gestionbibliotheque\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C5ADA8A-623E-48F3-8AF6-6574E5A453A6}|GestionBibliotheque\\GestionBibliotheque.csproj|solutionrelative:gestionbibliotheque\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -92,24 +92,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Usings.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\Usings.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\Usings.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque.Tests\\Usings.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\Usings.cs",
               "RelativeToolTip": "GestionBibliotheque.Tests\\Usings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:32:26.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:32:26.887Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\BookServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\BookServiceTests.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque.Tests\\BookServiceTests.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\BookServiceTests.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\BookServiceTests.cs",
               "RelativeToolTip": "GestionBibliotheque.Tests\\BookServiceTests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T13:32:24.34Z",
               "EditorCaption": ""
@@ -117,223 +116,206 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GestionBibliotheque.Tests",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
+              "Title": "GestionBibliotheque.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
               "RelativeDocumentMoniker": "GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
               "RelativeToolTip": "GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T13:29:59.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:29:59.997Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GestionBibliotheque",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
+              "Title": "GestionBibliotheque.csproj",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
               "RelativeDocumentMoniker": "GestionBibliotheque\\GestionBibliotheque.csproj",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
               "RelativeToolTip": "GestionBibliotheque\\GestionBibliotheque.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T13:29:52.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:29:52.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Program.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Program.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Program.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Program.cs",
               "RelativeToolTip": "GestionBibliotheque\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:24:19.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:24:19.277Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\appsettings.json",
               "RelativeDocumentMoniker": "GestionBibliotheque\\appsettings.json",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\appsettings.json",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\appsettings.json",
               "RelativeToolTip": "GestionBibliotheque\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-01T13:24:10.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:24:10.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "BookAddDto.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookAddDto.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\DTOs\\BookAddDto.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookAddDto.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookAddDto.cs",
               "RelativeToolTip": "GestionBibliotheque\\DTOs\\BookAddDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:17:51.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:17:51.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Services\\Interfaces\\IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Services\\Interfaces\\IBookService.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Services\\Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Services\\Interfaces\\IBookService.cs",
               "RelativeToolTip": "GestionBibliotheque\\Services\\Interfaces\\IBookService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwC4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:13:56.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T12:13:56.18Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Services\\BookService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Services\\BookService.cs",
               "RelativeToolTip": "GestionBibliotheque\\Services\\BookService.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:58:02.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:58:02.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Models\\Book.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Models\\Book.cs",
               "RelativeToolTip": "GestionBibliotheque\\Models\\Book.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:53:04.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:53:04.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "BookUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookUpdateDto.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\DTOs\\BookUpdateDto.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookUpdateDto.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookUpdateDto.cs",
               "RelativeToolTip": "GestionBibliotheque\\DTOs\\BookUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:52:58.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:52:58.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "BookFilterDto.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookFilterDto.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\DTOs\\BookFilterDto.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookFilterDto.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookFilterDto.cs",
               "RelativeToolTip": "GestionBibliotheque\\DTOs\\BookFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:52:55.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:52:55.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BookDto.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookDto.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\DTOs\\BookDto.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\DTOs\\BookDto.cs",
               "RelativeToolTip": "GestionBibliotheque\\DTOs\\BookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:52:50.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:52:50.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "GestionBibliotheque\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:28:05.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:28:05.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "BookMapper.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Mappers\\BookMapper.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Mappers\\BookMapper.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Mappers\\BookMapper.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Mappers\\BookMapper.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Mappers\\BookMapper.cs",
               "RelativeToolTip": "GestionBibliotheque\\Mappers\\BookMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:28:04.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:28:04.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "InvalidIdException.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\InvalidIdException.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\InvalidIdException.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Exceptions\\InvalidIdException.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\InvalidIdException.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\InvalidIdException.cs",
               "RelativeToolTip": "GestionBibliotheque\\Exceptions\\InvalidIdException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:28:02.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:28:02.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "DuplicateISBNException.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\DuplicateISBNException.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\DuplicateISBNException.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Exceptions\\DuplicateISBNException.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\DuplicateISBNException.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\DuplicateISBNException.cs",
               "RelativeToolTip": "GestionBibliotheque\\Exceptions\\DuplicateISBNException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:28:01.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:28:01.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "BookNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\BookNotFoundException.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Exceptions\\BookNotFoundException.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Exceptions\\BookNotFoundException.cs",
               "RelativeToolTip": "GestionBibliotheque\\Exceptions\\BookNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:28:00.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:28:00.14Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "GestionBibliotheque\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\Controllers\\BooksController.cs",
               "RelativeToolTip": "GestionBibliotheque\\Controllers\\BooksController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAA0wEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:27:53.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:27:53.956Z"
             }
           ]
         }

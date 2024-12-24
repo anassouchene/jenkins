@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5no4//zhMDs=",
+  "dgSpecHash": "QBOLuRHufSw=",
   "success": true,
   "projectFilePath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
   "expectedPackageFiles": [
@@ -113,7 +113,8 @@
     "C:\\Users\\anass\\.nuget\\packages\\xunit.core\\2.4.2\\xunit.core.2.4.2.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
-    "C:\\Users\\anass\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\anass\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\anass\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.2.24474.11\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.2.24474.11.nupkg.sha512"
   ],
   "logs": [
     {
