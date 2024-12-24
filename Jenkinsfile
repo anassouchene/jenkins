@@ -11,25 +11,25 @@ pipeline {
         stage('Restore') {
             steps {
                 echo 'Restoring .NET dependencies...'
-                bat 'dotnet restore GestionBiblio.sln'
+                bat 'dotnet restore ./GestionBibliotheque/GestionBiblio.sln'
             }
         }
         stage('Build') {
             steps {
                 echo 'Building .NET project...'
-                bat 'dotnet build GestionBiblio.sln --configuration Release'
+                bat 'dotnet build ./GestionBibliotheque/GestionBiblio.sln --configuration Release'
             }
         }
         stage('Test') {
             steps {
                 echo 'Running .NET tests...'
-                bat 'dotnet test GestionBiblio.sln'
+                bat 'dotnet test ./GestionBibliotheque/GestionBiblio.sln'
             }
         }
         stage('Publish') {
             steps {
                 echo 'Publishing .NET application...'
-                bat 'dotnet publish GestionBiblio.sln --configuration Release --output ./publish'
+                bat 'dotnet publish ./GestionBibliotheque/GestionBiblio.sln --configuration Release --output ./publish'
             }
         }
     }
