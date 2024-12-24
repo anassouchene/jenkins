@@ -7266,11 +7266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
       "projectName": "GestionBibliotheque.Tests",
-      "projectPath": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
+      "projectPath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\GestionBibliotheque.Tests.csproj",
       "packagesPath": "C:\\Users\\anass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque.Tests\\obj\\",
+      "outputPath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anass\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7288,8 +7288,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj": {
-              "projectPath": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj"
+            "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj": {
+              "projectPath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj"
             }
           }
         }
@@ -7303,7 +7303,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -7349,12 +7350,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.100-rc.2.24474.11, 9.0.100-rc.2.24474.11]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

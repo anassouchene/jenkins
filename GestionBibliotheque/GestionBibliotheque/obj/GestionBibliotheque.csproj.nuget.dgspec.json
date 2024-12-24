@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj": {}
+    "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj": {
+    "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
+        "projectUniqueName": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
         "projectName": "GestionBibliotheque",
-        "projectPath": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
+        "projectPath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\GestionBibliotheque.csproj",
         "packagesPath": "C:\\Users\\anass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anass\\Desktop\\GestionBiblio\\GestionBibliotheque\\GestionBibliotheque\\obj\\",
+        "outputPath": "C:\\Users\\anass\\Desktop\\jenkins\\GestionBibliotheque\\GestionBibliotheque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anass\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -62,12 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100-rc.2.24474.11, 9.0.100-rc.2.24474.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
