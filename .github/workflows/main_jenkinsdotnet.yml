@@ -1,4 +1,5 @@
-# Documentation pour l'action Azure Web Apps Deploy: https://github.com/Azure/webapps-deploy
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# More GitHub Actions for Azure: https://github.com/Azure/actions
 
 name: Build and deploy ASP.Net Core app to Azure Web App - jenkinsdotnet
 
@@ -13,28 +14,27 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up .NET Core SDK
+      - name: Set up .NET Core
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '6.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore GestionBibliotheque/GestionBibliotheque.csproj
 
-      - name: Build the application
-        run: dotnet build --configuration Release
+      - name: Build with dotnet
+        run: dotnet build GestionBibliotheque/GestionBibliotheque.csproj --configuration Release
 
-      - name: Publish the application
-        run: dotnet publish -c Release -o myapp
+      - name: dotnet publish
+        run: dotnet publish GestionBibliotheque/GestionBibliotheque.csproj -c Release -o "${{env.DOTNET_ROOT}}/myapp"
 
-      - name: Upload artifact for deployment
+      - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: myapp
+          path: ${{env.DOTNET_ROOT}}/myapp
 
   deploy:
     runs-on: windows-latest
@@ -43,20 +43,20 @@ jobs:
       name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
     permissions:
-      id-token: write
+      id-token: write #This is required for requesting the JWT
 
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v4
         with:
           name: .net-app
-
+      
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.AZURE_CLIENT_ID }}
-          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
-          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_5E619F22C8FB4F5189A63E0FA6E41C22 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_B6C2FE555B2E4DC5A7646824974904A5 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_AC329F18362443028AA69D240663EFE1 }}
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'jenkinsdotnet'
           slot-name: 'Production'
-          package: './myapp'
+          package: .  # Assurez-vous que cela pointe vers le bon dossier contenant les fichiers publiés
