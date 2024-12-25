@@ -1,0 +1,12 @@
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\GestionBibliotheque.exe
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\appsettings.json
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\GestionBibliotheque.dll
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\GestionBibliotheque.deps.json
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\GestionBibliotheque.runtimeconfig.json
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\GestionBibliotheque.pdb
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anass\Desktop\jenkins\GestionBibliotheque\GestionBibliotheque\bin\Release\net6.0\publish\GestionBibliotheque.xml
